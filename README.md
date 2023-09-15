@@ -4,7 +4,7 @@
 
 🌐 I am skilled in various areas, including:
 
--Frameworks : React (JavaScript), Angular (JavaScript), Bootstrap, Spring (Java), Flutter, ASP.NET (C), Symfony.
+-Frameworks : React (JavaScript), Angular (TypeScript), Bootstrap, Spring (Java), Flutter, ASP.NET (C#), Symfony.
 
 -Programmation  : Web3 , Solidity ,Java, Python, JavaScript, C, PHP, HTML, CSS, ...
 
