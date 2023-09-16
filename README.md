@@ -20,8 +20,10 @@
 
 📷 Outside of software development, I enjoy music , reading  and dance.
 
-🌎 Let's connect : Email : maram.arfaoui213@gmail.com , LinkedIn :www.linkedin.com/in/arfaoui-maram  !
-es.</h3>
+🌎 Let's connect :
+
+Email : maram.arfaoui213@gmail.com ,
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maramarfaoui&label=Profile%20views&color=0e75b6&style=flat" alt="maramarfaoui" /> </p>
 
