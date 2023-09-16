@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maram Arfaoui</h1>
-<h3 align="center">A Software engineering student passionate about creating innovative applications and proficient in a wide range of technologies.</h3>
+<h3 align="center">
+ 👩‍💻 Software engineering student passionate about creating innovative applications and proficient in a wide range of technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
