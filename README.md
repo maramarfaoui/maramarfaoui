@@ -4,13 +4,13 @@
 
 🌐 I am skilled in various areas, including:
 
--Frameworks : React (JavaScript), Angular (TypeScript), Bootstrap, Spring (Java), Flutter, ASP.NET (C#), Symfony.
+              -Frameworks : React (JavaScript), Angular (TypeScript), Bootstrap, Spring (Java), Flutter, ASP.NET (C#), Symfony.
 
--Programmation  : Web3 , Solidity ,Java, Python, JavaScript, C, PHP, HTML, CSS, ...
+              -Programmation  : Web3 , Solidity ,Java, Python, JavaScript, C, PHP, HTML, CSS, ...
 
--Cloud/Databases :  MySQL, PostgreSQL, MongoDB.
+             -Cloud/Databases :  MySQL, PostgreSQL, MongoDB.
 
--Environment : IntelliJ IDEA, Visual Studio Code, Eclipse, Visual Studio, Git, GitHub, Postman, Trello.
+             -Environment : IntelliJ IDEA, Visual Studio Code, Eclipse, Visual Studio, Git, GitHub, Postman, Trello.
 
 🌟 I enjoy tackling complex problems, collaborating with fellow tech enthusiasts, and staying updated on the latest trends in the world of software development.
 
