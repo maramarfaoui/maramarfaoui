@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maram Arfaoui</h1>
-<h3 align="left">👩‍💻 Software engineering student passionate about creating innovative applications and proficient in a wide range of technologies.</h3>
+<h3 align="center">👩‍💻 Software engineering student passionate about creating innovative applications and proficient in a wide range of technologies.</h3>
 
-<h3 align="left">🌟 I enjoy tackling complex problems, collaborating with fellow tech enthusiasts, and staying updated on the latest trends in the world of software development.</h3>
+<h3 align="center">🌟 I enjoy tackling complex problems, collaborating with fellow tech enthusiasts, and staying updated on the latest trends in the world of software development.</h3>
 
-<h3 align="left">📫 Feel free to reach out to me to discuss projects, collaboration opportunities, or simply to exchange ideas about the technologies we love.</h3>
+<h3 align="center">📫 Feel free to reach out to me to discuss projects, collaboration opportunities, or simply to exchange ideas about the technologies we love.</h3>
 
 <h3 align="center">🚀 Explore my repositories to discover some of my recent projects, and follow me to stay updated on my contributions.</h3>
 
