@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maram Arfaoui</h1>
 <h3 align="center">A Software engineering student passionate about creating innovative applications and proficient in a wide range of technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maramarfaoui" alt="maramarfaoui" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arfaoui-maram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arfaoui-maram" height="30" width="40" /></a>
