@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maramarfaoui&show_icons=true&locale=en" alt="maramarfaoui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maramarfaoui&" alt="maramarfaoui" /></p>
